@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ysapk
+Build-Jdk: 19.0.2
+Implementation-Title: AniHome-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.AniHome
+Implementation-URL: https://spring.io/projects/spring-boot/AniHome-api
+Created-By: Maven Integration for Eclipse
+
